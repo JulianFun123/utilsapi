@@ -1,0 +1,17 @@
+{
+    "name":"MyApp",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "My Name",
+            "email": "my@mail.com"
+        }
+    ],
+    "debug": "justtestserver",
+    "options": {
+        "defaultlang": "en",
+        "detectlanguage": false,
+        "autoCompileOnDebug": false
+    }
+
+}
