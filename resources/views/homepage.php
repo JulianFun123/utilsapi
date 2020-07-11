@@ -15,8 +15,8 @@
 </head>
 <body>
     <img style="width: 200px; margin: auto; margin-top: 80px; margin-bottom: 20px;  display: block;" src="/assets/images/ulole.svg">
-    <h1 style="text-align: center">Hello! Welcome to Ulole-Framework v2.</h1>
+    <h1 style="text-align: center">This project is based on Ulole-Framework v2.</h1>
     <h2 style="text-align: center">What now?</h2>
-    <p style="text-align: center; margin-top: 20px; font-size: 20px">Check out what you can do at <a href="https://developers.interaapps.de/ulole/framework">our docs</a>!</p>
+    <p style="text-align: center; margin-top: 20px; font-size: 20px">Hello there! This is a utils API for testing or getting information. <br><a href="https://github.com/interaapps">Made by InteraApps</a>!</p>
 </body>
 </html>
